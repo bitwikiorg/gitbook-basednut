@@ -1,0 +1,23 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BASED NUT
+  structure:
+    - type: space
+      key: space-1
+      title: BASED NUT
+      path: based-nut
+      default: true
+      content:
+        directory: ./based-nut
+    - type: space
+      key: space-3
+      title: Rootstock
+      path: rootstock
+      content:
+        directory: ./rootstock
+    - type: space
+      key: space-2
+      title: Learn Crypto
+      path: learn-crypto
+      content:
+        directory: ./learn-crypto
