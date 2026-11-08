@@ -1,0 +1,25 @@
+# Table of contents
+
+## Learn Crypto
+
+* [00 - Start here](README.md)
+* [01 - Wallets](learn-crypto/01-wallets.md)
+* [02 - Base Network](learn-crypto/02-base-network.md)
+* [03 - Getting Crypto Coinbase](learn-crypto/03-getting-crypto-coinbase.md)
+* [04 - Reading Basescan](learn-crypto/04-reading-basescan.md)
+* [05 - Sending Tokens](learn-crypto/05-sending-tokens.md)
+* [06 - Signing Approvals](learn-crypto/06-signing-approvals.md)
+* [07 - First Swap](learn-crypto/07-first-swap.md)
+* [08 - How DEXs Work](learn-crypto/08-how-dexs-work.md)
+* [09 - Price Impact and Slippage](learn-crypto/09-price-impact-and-slippage.md)
+* [10 - Providing Liquidity](learn-crypto/10-providing-liquidity.md)
+* [11 - Wrapping Assets](learn-crypto/11-wrapping-assets.md)
+* [12 - Bridges](learn-crypto/12-bridges.md)
+* [13 - Smart Contracts](learn-crypto/13-smart-contracts.md)
+* [14 - Composability](learn-crypto/14-composability.md)
+* [15 - Yield](learn-crypto/15-yield.md)
+* [16 - Lending and Borrowing](learn-crypto/16-lending-and-borrowing.md)
+* [17 - Unfamiliar Protocol](learn-crypto/17-unfamiliar-protocol.md)
+* [18 - Personal Wallet Architecture](learn-crypto/18-personal-wallet-architecture.md)
+* [19 - Exiting](learn-crypto/19-exiting.md)
+* [20 - Operational Competence](learn-crypto/20-operational-competence.md)
